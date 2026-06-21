@@ -1,2 +1,14 @@
 # zhfans-2026worldcup-lab
-HTML page archive and documentation
+
+独立页面发布说明
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
